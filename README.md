@@ -1,6 +1,6 @@
-# Bharat-Intern-Internship-Task-2
+# Internship-Task
 
-# WineQualityPrediction
+# Wine Quality Prediction
 
 Given a set of features as inputs, the task here is to predict the quality of wine on a scale of 0 - 10. I have solved it as a regression problem using Linear Regression.
 Dataset
